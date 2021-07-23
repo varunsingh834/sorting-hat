@@ -1,0 +1,2 @@
+# sorting-hat
+A highly motivated professional with 1+ years of experience in software development. Good Knowledge of DS,Algorithms,Microservices etc.Hands‐ on experience in languages and technologies like C++, Java, Spring, Spring Boot, Restful Webservices, Mockito, Netflix Conductor, MySql, Mon‐ goDB, Elastic‐Search, Kafka, Redis, CI/CD. Quick Learner, good analytical skills and adaptive to new challenges. Diligent and self‐reliant with commitment to ethics and quality.
